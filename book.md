@@ -9,7 +9,7 @@ This is normal text
 Normal text
 >Quoted text
 
-![This is DK](images/football.jpg)
+![This is a football](/images/football.jpg)
 
 ## Top 3 teams in the playoffs
 1. Eagles
