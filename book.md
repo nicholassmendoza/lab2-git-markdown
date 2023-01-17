@@ -9,7 +9,7 @@ This is normal text
 Normal text
 >Quoted text
 
-![This is DK](images/DK_Metcalf_with_mask.jpg)
+![This is DK](../images/DK_Metcalf_with_mask.jpg)
 
 ## Top 3 teams in the playoffs
 1. Eagles
